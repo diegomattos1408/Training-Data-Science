@@ -1,0 +1,201 @@
+Customer_ID,Marital_Status,Employment_Status,Education_Level,Preferred_Communication_Channel
+CUST_0001,Widowed,Employed,High School,Phone
+CUST_0002,Married,Student,PhD,SMS
+CUST_0003,Widowed,Student,PhD,Social Media
+CUST_0004,Widowed,Unemployed,PhD,SMS
+CUST_0005,Widowed,Retired,Master,SMS
+CUST_0006,Divorced,Retired,High School,SMS
+CUST_0007,Married,Employed,High School,Email
+CUST_0008,Single,Unemployed,PhD,Email
+CUST_0009,Widowed,Unemployed,Master,Social Media
+CUST_0010,Married,Employed,Bachelor,Phone
+CUST_0011,Married,Retired,Master,Phone
+CUST_0012,Single,Retired,High School,Phone
+CUST_0013,Single,Student,High School,Phone
+CUST_0014,Married,Unemployed,Master,Phone
+CUST_0015,Married,Student,High School,Email
+CUST_0016,Divorced,Student,High School,SMS
+CUST_0017,Married,Unemployed,High School,Email
+CUST_0018,Married,Employed,PhD,Social Media
+CUST_0019,Widowed,Student,Master,Email
+CUST_0020,Divorced,Employed,High School,SMS
+CUST_0021,Single,Unemployed,Master,Email
+CUST_0022,Single,Unemployed,PhD,SMS
+CUST_0023,Single,Student,Bachelor,Phone
+CUST_0024,Divorced,Retired,Bachelor,Email
+CUST_0025,Single,Retired,PhD,Phone
+CUST_0026,Widowed,Retired,Master,Social Media
+CUST_0027,Widowed,Employed,High School,Email
+CUST_0028,Widowed,Student,Master,Phone
+CUST_0029,Widowed,Unemployed,PhD,Social Media
+CUST_0030,Single,Unemployed,PhD,SMS
+CUST_0031,Widowed,Student,Bachelor,Phone
+CUST_0032,Widowed,Student,High School,Email
+CUST_0033,Single,Employed,Bachelor,Phone
+CUST_0034,Married,Retired,PhD,Email
+CUST_0035,Divorced,Retired,High School,Email
+CUST_0036,Married,Student,Bachelor,Email
+CUST_0037,Married,Employed,Master,Email
+CUST_0038,Single,Unemployed,PhD,Email
+CUST_0039,Single,Employed,Bachelor,Phone
+CUST_0040,Divorced,Student,PhD,Email
+CUST_0041,Single,Employed,High School,Phone
+CUST_0042,Married,Student,High School,Email
+CUST_0043,Widowed,Unemployed,PhD,Social Media
+CUST_0044,Widowed,Student,High School,Social Media
+CUST_0045,Single,Employed,Bachelor,Social Media
+CUST_0046,Single,Retired,Master,SMS
+CUST_0047,Widowed,Student,Bachelor,Social Media
+CUST_0048,Divorced,Student,High School,Social Media
+CUST_0049,Widowed,Unemployed,PhD,Phone
+CUST_0050,Single,Unemployed,High School,Phone
+CUST_0051,Single,Employed,Bachelor,Phone
+CUST_0052,Divorced,Employed,Master,SMS
+CUST_0053,Married,Employed,PhD,Email
+CUST_0054,Widowed,Retired,PhD,Social Media
+CUST_0055,Single,Student,Bachelor,Phone
+CUST_0056,Widowed,Retired,PhD,Social Media
+CUST_0057,Widowed,Employed,Bachelor,Email
+CUST_0058,Married,Retired,Bachelor,Social Media
+CUST_0059,Widowed,Student,High School,Social Media
+CUST_0060,Married,Retired,Master,Phone
+CUST_0061,Widowed,Unemployed,High School,Phone
+CUST_0062,Widowed,Student,Bachelor,Phone
+CUST_0063,Widowed,Unemployed,PhD,Phone
+CUST_0064,Married,Student,PhD,Social Media
+CUST_0065,Widowed,Unemployed,High School,Email
+CUST_0066,Divorced,Retired,PhD,SMS
+CUST_0067,Single,Unemployed,Master,Email
+CUST_0068,Single,Unemployed,PhD,Social Media
+CUST_0069,Single,Employed,Master,SMS
+CUST_0070,Divorced,Retired,Master,Email
+CUST_0071,Single,Student,Master,Social Media
+CUST_0072,Divorced,Retired,Master,SMS
+CUST_0073,Married,Student,Master,SMS
+CUST_0074,Single,Employed,Master,Email
+CUST_0075,Single,Unemployed,High School,Email
+CUST_0076,Married,Unemployed,High School,Email
+CUST_0077,Divorced,Employed,PhD,Social Media
+CUST_0078,Divorced,Retired,High School,Phone
+CUST_0079,Married,Retired,High School,SMS
+CUST_0080,Divorced,Student,PhD,Phone
+CUST_0081,Single,Employed,PhD,Phone
+CUST_0082,Single,Unemployed,Master,Email
+CUST_0083,Widowed,Student,High School,Social Media
+CUST_0084,Single,Employed,High School,SMS
+CUST_0085,Widowed,Retired,High School,SMS
+CUST_0086,Widowed,Unemployed,High School,Email
+CUST_0087,Widowed,Employed,High School,Email
+CUST_0088,Single,Retired,Master,SMS
+CUST_0089,Widowed,Unemployed,Master,Email
+CUST_0090,Widowed,Retired,Bachelor,Social Media
+CUST_0091,Divorced,Employed,PhD,SMS
+CUST_0092,Married,Student,PhD,Email
+CUST_0093,Single,Retired,High School,Email
+CUST_0094,Widowed,Unemployed,Bachelor,Email
+CUST_0095,Widowed,Unemployed,High School,Phone
+CUST_0096,Divorced,Unemployed,High School,Email
+CUST_0097,Single,Unemployed,Master,Phone
+CUST_0098,Single,Unemployed,PhD,Phone
+CUST_0099,Widowed,Student,PhD,Phone
+CUST_0100,Widowed,Employed,Master,Social Media
+CUST_0101,Divorced,Student,High School,SMS
+CUST_0102,Widowed,Student,PhD,SMS
+CUST_0103,Divorced,Student,Master,SMS
+CUST_0104,Divorced,Unemployed,PhD,Social Media
+CUST_0105,Widowed,Unemployed,High School,SMS
+CUST_0106,Single,Retired,Master,Social Media
+CUST_0107,Married,Employed,High School,SMS
+CUST_0108,Widowed,Unemployed,Bachelor,Email
+CUST_0109,Widowed,Retired,Bachelor,Phone
+CUST_0110,Divorced,Unemployed,High School,Email
+CUST_0111,Divorced,Unemployed,Master,SMS
+CUST_0112,Widowed,Employed,High School,Phone
+CUST_0113,Widowed,Employed,Master,Phone
+CUST_0114,Widowed,Retired,Master,Phone
+CUST_0115,Divorced,Employed,Bachelor,Social Media
+CUST_0116,Widowed,Unemployed,High School,Social Media
+CUST_0117,Divorced,Employed,High School,SMS
+CUST_0118,Single,Retired,Master,Social Media
+CUST_0119,Single,Employed,Master,Phone
+CUST_0120,Single,Unemployed,Bachelor,Phone
+CUST_0121,Widowed,Employed,Master,Social Media
+CUST_0122,Single,Retired,PhD,Email
+CUST_0123,Divorced,Employed,Master,Phone
+CUST_0124,Single,Retired,High School,Social Media
+CUST_0125,Single,Employed,Bachelor,SMS
+CUST_0126,Divorced,Unemployed,Master,SMS
+CUST_0127,Married,Employed,PhD,Social Media
+CUST_0128,Married,Retired,PhD,Phone
+CUST_0129,Married,Retired,Master,Social Media
+CUST_0130,Widowed,Employed,Bachelor,SMS
+CUST_0131,Married,Student,Master,SMS
+CUST_0132,Widowed,Retired,PhD,Social Media
+CUST_0133,Divorced,Retired,Bachelor,SMS
+CUST_0134,Married,Unemployed,Bachelor,Social Media
+CUST_0135,Single,Unemployed,High School,Email
+CUST_0136,Single,Retired,Master,Social Media
+CUST_0137,Widowed,Employed,Master,Social Media
+CUST_0138,Widowed,Employed,Master,Social Media
+CUST_0139,Widowed,Student,Master,Email
+CUST_0140,Divorced,Employed,PhD,Email
+CUST_0141,Married,Student,PhD,Social Media
+CUST_0142,Married,Student,High School,SMS
+CUST_0143,Widowed,Employed,PhD,SMS
+CUST_0144,Divorced,Student,Bachelor,SMS
+CUST_0145,Married,Unemployed,Master,Phone
+CUST_0146,Widowed,Student,Master,SMS
+CUST_0147,Divorced,Unemployed,Master,Email
+CUST_0148,Single,Retired,Bachelor,Social Media
+CUST_0149,Widowed,Student,Bachelor,Phone
+CUST_0150,Divorced,Retired,High School,Email
+CUST_0151,Married,Retired,High School,Phone
+CUST_0152,Single,Student,Master,Phone
+CUST_0153,Single,Employed,Bachelor,Email
+CUST_0154,Single,Employed,Bachelor,SMS
+CUST_0155,Divorced,Unemployed,High School,Phone
+CUST_0156,Married,Retired,High School,Email
+CUST_0157,Single,Retired,PhD,Phone
+CUST_0158,Widowed,Retired,Bachelor,SMS
+CUST_0159,Divorced,Employed,High School,Email
+CUST_0160,Single,Employed,PhD,Email
+CUST_0161,Widowed,Employed,PhD,Phone
+CUST_0162,Widowed,Student,PhD,Social Media
+CUST_0163,Married,Unemployed,Master,Email
+CUST_0164,Single,Employed,Master,Email
+CUST_0165,Divorced,Student,PhD,Email
+CUST_0166,Widowed,Unemployed,Master,Phone
+CUST_0167,Single,Employed,Bachelor,Email
+CUST_0168,Divorced,Employed,Bachelor,Social Media
+CUST_0169,Married,Unemployed,Master,SMS
+CUST_0170,Divorced,Unemployed,PhD,SMS
+CUST_0171,Married,Unemployed,PhD,Social Media
+CUST_0172,Divorced,Student,PhD,Email
+CUST_0173,Divorced,Employed,High School,Phone
+CUST_0174,Single,Student,Master,SMS
+CUST_0175,Single,Employed,High School,Social Media
+CUST_0176,Divorced,Retired,Bachelor,Phone
+CUST_0177,Married,Unemployed,High School,SMS
+CUST_0178,Married,Student,High School,SMS
+CUST_0179,Married,Retired,High School,Social Media
+CUST_0180,Divorced,Retired,High School,Phone
+CUST_0181,Divorced,Employed,Master,Email
+CUST_0182,Widowed,Unemployed,Bachelor,Email
+CUST_0183,Married,Retired,Bachelor,Email
+CUST_0184,Widowed,Retired,Bachelor,Phone
+CUST_0185,Widowed,Unemployed,High School,Email
+CUST_0186,Married,Student,High School,Email
+CUST_0187,Married,Employed,Bachelor,Email
+CUST_0188,Widowed,Employed,Bachelor,Phone
+CUST_0189,Widowed,Employed,PhD,Email
+CUST_0190,Widowed,Employed,Master,Social Media
+CUST_0191,Married,Student,PhD,SMS
+CUST_0192,Married,Student,Master,Email
+CUST_0193,Divorced,Employed,High School,Email
+CUST_0194,Divorced,Employed,Bachelor,Phone
+CUST_0195,Widowed,Student,PhD,Phone
+CUST_0196,Married,Unemployed,Bachelor,Email
+CUST_0197,Single,Unemployed,High School,SMS
+CUST_0198,Married,Unemployed,Master,Social Media
+CUST_0199,Married,Retired,High School,Email
+CUST_0200,Single,Employed,Bachelor,SMS
